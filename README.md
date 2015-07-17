@@ -1,0 +1,1 @@
+Proyecto que tiene como objetivo devolver un número aleatorio entre 0 y 1.
